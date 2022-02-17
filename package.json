@@ -1,0 +1,24 @@
+{
+  "name": "tsday-eslint-library-example",
+  "version": "0.0.1",
+  "description": "Library example to use custom ESLint plugin for TSDay ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmeneses/tsday-eslint-library-example.git"
+  },
+  "keywords": [
+    "tsday",
+    "typescript",
+    "eslint"
+  ],
+  "author": "Daniela Meneses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmeneses/tsday-eslint-library-example/issues"
+  },
+  "homepage": "https://github.com/dmeneses/tsday-eslint-library-example#readme"
+}
