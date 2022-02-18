@@ -1,0 +1,6 @@
+export enum RegexType {
+  EMAIL,
+  NUMBERS_ONLY,
+  LETTERS_ONLY,
+  NUMBERS_AND_LETTERS
+}
