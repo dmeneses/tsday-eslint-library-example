@@ -1,6 +1,7 @@
 import { RegexType } from './regex-type';
 
 export class RegexHelper {
+  // eslint-disable-next-line no-useless-escape
   public static readonly EMAIL = /^(([^<>()[\]\.,;:\s@\"]+(\.[^<>()[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
   public static readonly NUMBERS_ONLY = /^\d+$/;
   public static readonly LETTERS_ONLY = /^[a-zA-Z]+$/;
