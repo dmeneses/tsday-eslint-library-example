@@ -8,9 +8,15 @@
       "files": [
         "*.ts"
       ],
+      "plugins": [
+        "tsday"
+      ],
       "extends": [
         "plugin:tsday/recommended"
-      ]
+      ],
+      "rules": {
+        "tsday/import-check": "error"
+      }
     }
   ]
 }
